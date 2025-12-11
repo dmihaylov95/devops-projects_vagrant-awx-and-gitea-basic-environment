@@ -16,13 +16,15 @@ This is a Vagrantfile configuration that deploys and provisions a basic AWX and 
    * You should be able to access Gitea at: http://192.168.99.99:8888/
 
 Credentials for the AWX superuser:
+----------------------------------
 - Username: awx
 - Password: awx
 
 Credentials for the Gitea admin user:
+-------------------------------------
 - Username: gitea
 - Password: giteagitea
 
-* Credentials can also be changed from the Vagrantfile.
+Credentials can also be changed from the Vagrantfile.
 
 Once you need to clear-up the environment, from the same terminal, opened from the directory, where the Vagrantfile lives, execute `vagrant destroy --force`.
