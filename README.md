@@ -10,7 +10,7 @@ This is a Vagrantfile configuration that deploys and provisions a basic AWX and 
 4. Pull the repository, containing the Vagrantfile, locally.
 5. Go to the directory, where the Vagrantfile lives.
 6. Open a terminal from that directory.
-7. Execute "vagrant up" and be ready to wait, as this takes a while (normally 15-30 minutes).
+7. Execute `vagrant up` and be ready to wait, as this takes a while (normally 15-30 minutes).
 8. Once ready:
    * You should be able to access AWX at: https://192.168.99.99:8043/
    * You should be able to access Gitea at: http://192.168.99.99:8888/
