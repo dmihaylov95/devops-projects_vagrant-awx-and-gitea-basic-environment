@@ -25,4 +25,4 @@ Credentials for the Gitea admin user:
 
 * Credentials can also be changed from the Vagrantfile.
 
-Once you need to clear-up the environment, from the same terminal, opened from the directory, where the Vagrantfile lives, execute "vagrant destroy --force".
+Once you need to clear-up the environment, from the same terminal, opened from the directory, where the Vagrantfile lives, execute <vagrant destroy --force>.
